@@ -1,0 +1,10 @@
+[package]
+name = "proxy_checker"
+version = "0.1.0"
+authors = ["haze <haze@ill.fi>"]
+
+[dependencies]
+clap = "2.32.0"
+reqwest = "0.9.5"
+rayon = "1.0"
+regex = "1"
